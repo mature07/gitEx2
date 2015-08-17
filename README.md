@@ -1,2 +1,4 @@
 # gitEx2
-# BBB
+<<<<<<< HEAD
+# AAA
+
